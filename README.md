@@ -1,4 +1,4 @@
-# Vlabik_Rdns
+# Vlabik_Rnds
 ## Библеотека ардуино для выдачи рандомного числа
   ``` c++
 #include "Vlabik_Rnds.h"
